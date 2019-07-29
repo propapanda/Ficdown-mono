@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Ficdown.Parser/Ficdown.Parser.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ficdown.Parser/Render/EpubRenderer.cs">
+    <Files>
+      <File FileName="Ficdown.Parser/Render/EpubRenderer.cs" Line="100" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
